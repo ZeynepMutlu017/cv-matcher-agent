@@ -1,0 +1,5 @@
+.env
+embeddings_cache3.npy
+labels_cache3.npy
+__pycache__/
+*.pyc
